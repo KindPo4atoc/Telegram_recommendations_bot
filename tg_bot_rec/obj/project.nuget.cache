@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Bsi2RXqJI9JwK92RLKUF/4Cp/O8YjcpSBs7QlK6Vp1UOIepSSkTcCUW96XIUbgoEnW/5SViwAsdroOm4rtNeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\м\\OneDrive\\Рабочий стол\\Универ\\2 курс\\2 семестр\\Practica\\tg_bot_rec\\tg_bot_rec\\tg_bot_rec.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\м\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\microsoft.ml\\3.0.0-preview.22621.2\\microsoft.ml.3.0.0-preview.22621.2.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\microsoft.ml.cpumath\\3.0.0-preview.22621.2\\microsoft.ml.cpumath.3.0.0-preview.22621.2.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\microsoft.ml.dataview\\3.0.0-preview.22621.2\\microsoft.ml.dataview.3.0.0-preview.22621.2.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\microsoft.ml.recommender\\0.21.0-preview.22621.2\\microsoft.ml.recommender.0.21.0-preview.22621.2.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\system.codedom\\4.5.0\\system.codedom.4.5.0.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\м\\.nuget\\packages\\telegram.bot\\19.0.0-preview.2\\telegram.bot.19.0.0-preview.2.nupkg.sha512"
+  ],
+  "logs": []
+}
